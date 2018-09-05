@@ -1,0 +1,16 @@
+<add>
+<doc>
+<field name="id">001</field>
+<field name="first name">Mohith</field>
+<field name="last name">Reddy</field>
+<field name="phone number">9874563210</field>
+<field name="city name">Hyderabad</field>
+</doc>
+<doc>
+<field name="id">002</field>
+<field name="first name">Mohan</field>
+<field name="last name">Babu</field>
+<field name="phone number">9012365478</field>
+<field name="city name">Chennai</field>
+</doc>
+</add>
